@@ -60,15 +60,15 @@ def submit(s: requests.Session):
         "dqqk2":"1",                        # current situation      1.无异常
         "dqqk2qt":"",
         "sfjshsjc":"1",                     # PCR test?       1.是 0.否
-        "dyzymjzqk":"3",                    # first vaccination situation  3.已接种
-        "dyzjzsj":"2021-03-07",             # date of first vaccination
+        "dyzymjzqk":"1",                    # first vaccination situation  3.已接种
+        "dyzjzsj":"2021-05-19",             # date of first vaccination
         "dyzwjzyy":"",
-        "dezymjzqk":"3",                    # second vaccination situation  3.已接种
-        "dezjzsj":"2021-03-28",             # date of second vaccination
+        "dezymjzqk":"1",                    # second vaccination situation  3.已接种
+        "dezjzsj":"2021-06-16",             # date of second vaccination
         "dezwjzyy":"",
-        "dszymjzqk":"6",                    # third vaccination situation  6.未接种
-        "dszjzsj":"2000-01-01",             # default time
-        "dszwjzyy":"在吃其他药物",                    # reason of non-vaccination
+        "dszymjzqk":"1",                    # third vaccination situation  6.未接种
+        "dszjzsj":"2021-12-29",             # default time
+        "dszwjzyy":"",                    # reason of non-vaccination
         "gtshryjkzk":"1",                   # health situation
         "extinfo":"",                       # other information
         ### personal information
